@@ -1,4 +1,4 @@
-Chat with GPT - Terminal-Based AI Chatbot
+Chat with GPT - Terminal-Based AI Chatbot <br/>
 📄 Description:
 This is a simple yet powerful terminal-based chatbot that uses OpenAI's GPT-3.5-Turbo model to simulate human-like conversations. Built with Python and OpenAI's API, the chatbot allows users to interact with the model in real-time, directly from the command line.
 
