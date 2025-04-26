@@ -1,7 +1,8 @@
 # 🗣️ TalkyGPT
 
 📄 Description:<br/>
-**TalkyGPT** is a simple and fun terminal-based chatbot powered by **OpenAI's GPT-3.5-Turbo**. Chat directly from your command line — ask questions, tell it jokes, or just have a casual conversation. No GUI, no fluff — just pure text-based magic.<br/>
+**TalkyGPT** is a simple and fun terminal-based chatbot powered by **OpenAI's GPT-3.5-Turbo**. Chat directly from your command line — ask questions, tell it jokes, or just have a casual conversation. <br/>
+No GUI, no fluff — just pure text-based magic.<br/>
 
 ---
 
